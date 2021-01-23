@@ -19,6 +19,10 @@ function preload() {
  classifier = ml5.imageClassifier(modelURL + 'model.json');
 }
 
+
+
+
+
 function setup() {
     createCanvas(400, 600);
     //frameRate(50);
@@ -31,11 +35,14 @@ function setup() {
     opponents.push(new Opponent());
     player = new Player();
 }
+
+
 function classifyVideo() {
   // Flip the video!
   flipVideo = ml5.flipImage(video);
   classifier.classify(flipVideo, gotResults);
 }
+
 function draw() {
     background(44, 44, 44);
     image(flipVideo, 0, 0);
