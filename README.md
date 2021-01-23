@@ -5,6 +5,9 @@
  
 Car moves based on the hand gestures of the user instead of the normal ways
 
+## Working of the game
+
+
 
 
 
