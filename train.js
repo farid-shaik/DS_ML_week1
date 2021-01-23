@@ -101,6 +101,9 @@ function draw() {
         rect(30 + (j*70), height-60,40,40);
     }
 
+ 
+ 
+ 
     // Check if game is over
     if (lives === 0) {
         noLoop();
@@ -112,6 +115,9 @@ function draw() {
         text('GAME OVER', width/2, height/2);
     }
 }
+
+
+
 function gotResults(error, results) {
   if (error) {
     console.error(error);
@@ -122,6 +128,9 @@ function gotResults(error, results) {
   controlCar();
   classifyVideo();
 }
+
+
+
 function controlCar(){
    if (label === "Right") {
     player.turnRight();
