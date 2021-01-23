@@ -5,7 +5,7 @@
 Car move based on the hand gestures of the user instead of the normal ways
 
 
-## Resources 
+## Online Resources 
 https://editor.p5js.org/pallav1/sketches/MHmbKhKfP
 
 ## Game Demo video Below
