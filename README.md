@@ -4,12 +4,6 @@
 
 
 
-## Resources 
-https://editor.p5js.org/pallav1/sketches/MHmbKhKfP 
-Stackoverflow.com
-https://teachablemachine.withgoogle.com/train/image
-
-
 
 
 
@@ -17,3 +11,8 @@ https://teachablemachine.withgoogle.com/train/image
 
 ## Game Demo Video Below
 [![Watch the video](https://www.researchgate.net/profile/Noor_Ibraheem/publication/307894274/figure/fig2/AS:403958326677506@1473322578610/game-controlling-using-hand-gestures-1.png)](https://youtu.be/RNmR8BZff58)
+
+
+## Resources 
+https://editor.p5js.org/pallav1/sketches/MHmbKhKfP 
+https://teachablemachine.withgoogle.com/train/image
