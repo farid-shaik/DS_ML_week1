@@ -13,6 +13,8 @@ function Opponent() {
         rect(this.x, this.y,80,160);
     }
 
+    
+    
     this.update = function() {
         this.y += this.speed;
     }
@@ -27,6 +29,8 @@ function Opponent() {
         }
     }
 
+    
+    
     this.hits = function(player) {
         if (player.y < this.y+this.h && player.y+player.h > this.y) {
             if (player.x < this.x+this.w && player.x+player.w > this.x) {
@@ -35,6 +39,9 @@ function Opponent() {
         }
     }
 
+    
+    
+    
     this.boom = function() {
     }
 }
