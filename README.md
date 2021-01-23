@@ -10,5 +10,10 @@ Stackoverflow.com
 https://teachablemachine.withgoogle.com/train/image
 
 
+
+
+
+
+
 ## Link
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://www.researchgate.net/profile/Noor_Ibraheem/publication/307894274/figure/fig2/AS:403958326677506@1473322578610/game-controlling-using-hand-gestures-1.png)](https://youtu.be/RNmR8BZff58)
